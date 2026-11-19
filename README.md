@@ -627,7 +627,7 @@ div {
 }
 ```
 
-### **flex box**
+### **flex**
 
 #### 용어 정리
 
@@ -673,7 +673,7 @@ div {
   - stretch: flex item을 늘려 교차축에 가득 차게 배치
 
 - _여러 줄일 때 교차축 정렬 방법 align-content_
-  - flex-end
+  - flex-start
   - flex-end
   - center
   - space-between
@@ -688,3 +688,13 @@ div {
   - flex-end
   - center
   - stretch
+
+## 08-5. 웹 요소 위치 지정 position
+
+# 09. 이미지, 그라데이션, 배경
+
+# 10. CSS 고급 선택자
+
+# 11. 트랜지션, 애니메이션
+
+# 12. 반응형, 미디어 쿼리
